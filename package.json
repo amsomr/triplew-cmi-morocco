@@ -31,7 +31,7 @@
   "homepage": "https://triplew.ma/blog/integration-paiement-cmi-maroc",
   "repository": {
     "type": "git",
-    "url": "https://github.com/triplew-digital/triplew-cmi-morocco"
+    "url": "https://github.com/amsomr/triplew-cmi-morocco"
   },
   "license": "MIT",
   "devDependencies": {
