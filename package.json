@@ -1,0 +1,44 @@
+{
+  "name": "triplew-cmi-morocco",
+  "version": "1.0.0",
+  "description": "SDK & passerelle de paiement CMI (Centre Monétique Interbancaire Maroc) pour Node.js, Next.js et TypeScript avec support SHA-512 et 3D Secure 2.0.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "cmi",
+    "centre monetique interbancaire",
+    "maroc",
+    "morocco",
+    "paiement cmi",
+    "cmi maroc",
+    "cmi payment",
+    "cmi payment gateway",
+    "nextjs cmi",
+    "triplew",
+    "triplew digital",
+    "mad",
+    "e-commerce maroc",
+    "3d secure maroc"
+  ],
+  "author": {
+    "name": "TripleW Digital",
+    "url": "https://triplew.ma"
+  },
+  "homepage": "https://triplew.ma/blog/integration-paiement-cmi-maroc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/triplew-digital/triplew-cmi-morocco"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/node": "^20.11.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
